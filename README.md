@@ -1,0 +1,1 @@
+This is a simple UNIX command interpreter based on bash and Sh. This project was done in collaboration with paulina ugbede(@linadox) and paul okeke(@paulekene) during their ALX team project on C programming language- SPRINT 1
