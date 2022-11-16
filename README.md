@@ -1,4 +1,4 @@
-ALX SIMPLE SHELL GROUP 
+ALX SIMPLE SHELL GROUP TASK
 This is a simple UNIX command interpreter based on bash and Sh. This project was done in collaboration with paulina ugbede(@linadox) and paul okeke(@paulekene) during their ALX team project on C programming language- SPRINT 1
 
 This is an ALX collaboration project on Shell. We were tasked to create a simple shell that mimics the Bash shell. Our shell shall be called **hsh**
